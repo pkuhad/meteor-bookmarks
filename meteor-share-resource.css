@@ -2,7 +2,8 @@
 body {
   padding-top: 50px;
 }
-.starter-template {
+.share-form-container {
   padding: 40px 15px;
   text-align: center;
+  border-bottom: 1px solid #d6d6d6;
 }
